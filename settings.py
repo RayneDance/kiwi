@@ -25,7 +25,7 @@ SECRET_KEY = 'ywkq+fn6&zq7z8mf$cy*#eh!d)3ve1=bqj6duo9&1zls3%^(08'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['157.245.236.3']
+ALLOWED_HOSTS = ['157.245.236.3', 'kiwi.novalus.social']
 
 
 # Application definition
